@@ -303,19 +303,6 @@ const Index = () => {
                 </div>
               </div>
             </div>
-
-            <div className="bg-vintage-wheat/10 p-6 rounded-lg">
-              <h3 className="text-xl font-oswald font-bold mb-4">
-                Хотите участвовать?
-              </h3>
-              <p className="opacity-90 font-sans mb-4">
-                Если у вас есть ретро-автомобиль и интересная история, мы будем
-                рады видеть вас на нашей выставке!
-              </p>
-              <Button className="bg-vintage-wheat text-vintage-brown hover:bg-vintage-wheat/90 font-oswald">
-                Подать заявку
-              </Button>
-            </div>
           </div>
         </div>
       </section>
