@@ -267,8 +267,8 @@ const Index = () => {
             </p>
           </div>
 
-          <div className="max-w-4xl mx-auto grid md:grid-cols-2 gap-8">
-            <div className="space-y-6">
+          <div className="max-w-4xl grid md:grid-cols-2 gap-8 my-0.5 mx-[169px] py-[21px] px-[145px]">
+            <div className="space-y-6 mx-0 px-[187px]">
               <div className="flex items-center space-x-4">
                 <div className="bg-vintage-wheat p-3 rounded-full">
                   <Icon
@@ -289,7 +289,9 @@ const Index = () => {
                 </div>
                 <div>
                   <h3 className="text-xl font-oswald font-bold">Телефон</h3>
-                  <p className="opacity-90 font-sans">+7 (953) 593-99-66</p>
+                  <p className="opacity-90 font-sans mx-0 my-3 py-0 px-0">
+                    +7 (953) 593-99-66
+                  </p>
                 </div>
               </div>
 
