@@ -92,7 +92,7 @@ const Index = () => {
           <div className="grid md:grid-cols-2 gap-8 items-center">
             <div>
               <img
-                src="/img/a3330ba9-c6b8-4d5c-8795-b9f365c0c495.jpg"
+                src="/img/7a5a01e1-6bb9-45e3-b646-9817eabf37e6.jpg"
                 alt="Винтажный автомобиль"
                 className="rounded-lg shadow-lg w-full"
               />
