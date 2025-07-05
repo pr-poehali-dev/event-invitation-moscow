@@ -167,48 +167,48 @@ const Index = () => {
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
             <Card className="overflow-hidden hover:shadow-lg transition-shadow">
               <img
-                src="/img/d57eb86e-3a5d-4114-9c62-ac34befdbaa0.jpg"
-                alt="Ретро автомобили во дворе"
+                src="https://cdn.poehali.dev/files/beb25fee-4703-407b-9b01-299569d4c768.png"
+                alt="Красный спорткар в городе"
                 className="w-full h-48 object-cover"
               />
               <CardHeader>
                 <CardTitle className="font-oswald text-vintage-dark">
-                  Дворовые легенды
+                  Классические спорткары
                 </CardTitle>
                 <CardDescription className="font-sans">
-                  Атмосфера советских дворов
+                  Элегантные ретро-автомобили
                 </CardDescription>
               </CardHeader>
             </Card>
 
             <Card className="overflow-hidden hover:shadow-lg transition-shadow">
               <img
-                src="/img/ea3dad91-5054-4696-9cc1-c4feec271a7b.jpg"
-                alt="Выставочный плакат"
+                src="https://cdn.poehali.dev/files/57cb7057-7f84-407a-be19-5682982882bf.png"
+                alt="Желтый маслкар"
                 className="w-full h-48 object-cover"
               />
               <CardHeader>
                 <CardTitle className="font-oswald text-vintage-dark">
-                  Выставочные экспонаты
+                  Маслкары эпохи
                 </CardTitle>
                 <CardDescription className="font-sans">
-                  Раритетные автомобили
+                  Мощные американские легенды
                 </CardDescription>
               </CardHeader>
             </Card>
 
             <Card className="overflow-hidden hover:shadow-lg transition-shadow">
               <img
-                src="/img/a3330ba9-c6b8-4d5c-8795-b9f365c0c495.jpg"
-                alt="Классический автомобиль"
+                src="https://cdn.poehali.dev/files/f5afc128-56a0-4d38-912b-baadfd86fb92.png"
+                alt="Черный мустанг"
                 className="w-full h-48 object-cover"
               />
               <CardHeader>
                 <CardTitle className="font-oswald text-vintage-dark">
-                  Классика жанра
+                  Легендарные мустанги
                 </CardTitle>
                 <CardDescription className="font-sans">
-                  Легендарные модели
+                  Иконы американского автопрома
                 </CardDescription>
               </CardHeader>
             </Card>
