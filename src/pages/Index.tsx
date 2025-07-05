@@ -60,13 +60,7 @@ const Index = () => {
               Возвращение к истокам: когда район жил своей жизнью, а машины были
               частью истории каждого из нас
             </p>
-            <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <Button
-                size="lg"
-                className="bg-vintage-brown hover:bg-vintage-brown/90 text-white font-oswald text-lg px-8 py-3"
-              >
-                Зарегистрироваться
-              </Button>
+            <div className="flex justify-center">
               <Button
                 variant="outline"
                 size="lg"
