@@ -263,7 +263,7 @@ const Index = () => {
           <div className="text-center mb-12">
             <h2 className="text-4xl font-oswald font-bold mb-6">Контакты</h2>
             <p className="text-lg opacity-90 font-sans">
-              Свяжитесь с нами для участия в выставке
+              Приходите в Москва LIVE, обратитесь к отделу мероприятий
             </p>
           </div>
 
